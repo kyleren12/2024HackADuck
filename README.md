@@ -1,3 +1,9 @@
+# Hack a duck 2024 hackathon project: work swipe
+An application allowing the sourcing of employees and contractors in a similar manner to tinder.
+Won the Capital one prize.
+Our team used react and type script to build this project.
+No one in our team had experiance with React or Typescript before beggining this project and within the 24 hour constraint we are quite proud of the concept and product we created.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
